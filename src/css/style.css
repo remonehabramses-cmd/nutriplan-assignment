@@ -1,0 +1,10 @@
+.loading {
+  display:none
+}
+
+/* Hide all main views by default */
+ 
+#meal-details, 
+#products-section {
+  display: none;
+}
